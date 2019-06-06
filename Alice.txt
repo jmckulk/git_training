@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Boy is it lonely here :( - Wait is that someone new?
 Bob! It's nice to meet you!
 Hello! Patrick :)
+It's nice to meet you Patrick!
